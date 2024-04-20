@@ -1,0 +1,7 @@
+
+
+.HEADING {
+  margin-top: 20px; /* Adjust margin-top instead of margin */
+  margin-bottom: 20px; /* Optionally adjust margin-bottom */
+  text-align: center;
+}
